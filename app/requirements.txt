@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+xlrd
+psycopg2-binary
+sqlalchemy
+python-dotenv
+gunicorn
+python-multipart
+logger
